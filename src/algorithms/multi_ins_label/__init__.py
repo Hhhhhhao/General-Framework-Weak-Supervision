@@ -1,0 +1,4 @@
+from .imp_multi_ins import ImpreciseMultipleInstanceLearning
+from .count_loss_multi_ins import CountLossMultipleInstanceLearning
+from .uum_multi_ins import UUMMultipleInstanceLearning
+from .attn_multi_ins import AttnMultipleInstanceLearning, GatedAttnMultipleInstanceLearning

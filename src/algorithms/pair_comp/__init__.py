@@ -1,0 +1,5 @@
+from .imp_pair_comp import ImprecisePairComparisonLearning
+from .pcomp_unbiased import PCompUnbiasedPairComparisonLearning
+from .pcomp_corrected import PCompCorrectedPairComparisonLearning
+from .pcomp_teacher import PCompTeacherPairComparisonLearning
+from .rank_pruning import RankPruningPairComparisonLearning
