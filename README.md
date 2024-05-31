@@ -3,6 +3,7 @@ This repo provides the codebase for paper "A General Framework for Learning from
 It accomidates 14+ weak supervision settings, with baselines implemented and comprehensive benchmarks provided. 
 
 # Change Log
+* 05/2024 Paper accepted by ICML 2024!
 * 02/12/2024 Initial Code Released!
 
 
