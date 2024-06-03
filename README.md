@@ -1,5 +1,5 @@
 # General-Framework-Weak-Supervision
-This repo provides the codebase for paper "A General Framework for Learning from Weak Supervision" [[GLWS]](https://arxiv.org/abs/2402.01922).
+This repo provides the codebase for paper "[ICML 2024] A General Framework for Learning from Weak Supervision" [[GLWS]](https://arxiv.org/abs/2402.01922).
 It accomidates 14+ weak supervision settings, with baselines implemented and comprehensive benchmarks provided. 
 
 # Change Log
